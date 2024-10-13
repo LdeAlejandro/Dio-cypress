@@ -1,1 +1,1 @@
-# this repo work as documentation to what I learn about Cypress
+# This repository works as documentation for what I have learned about Cypress.
