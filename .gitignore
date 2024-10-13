@@ -1,0 +1,27 @@
+# Created by https://www.toptal.com/developers/gitignore/api/cypressio
+# Edit at https://www.toptal.com/developers/gitignore?templates=cypressio
+
+### CypressIO ###
+# gitignore template for the CypressIO, browser test framework
+# website: https://www.cypress.io/
+Basic/node_modules
+Basic/cypress/results/*
+Basic/cypress/reports/*
+Basic/cypress/screenshots/*
+Basic/cypress/videos/*
+
+BasicApi/node_modules
+BasicApi/cypress/results/*
+BasicApi/cypress/reports/*
+BasicApi/cypress/screenshots/*
+BasicApi/cypress/videos/*
+
+BasicCommands-fixtures
+
+BasicCommands-fixtures/node_modules
+BasicCommands-fixtures/cypress/results/*
+BasicCommands-fixtures/cypress/reports/*
+BasicCommands-fixtures/cypress/screenshots/*
+BasicCommands-fixtures/cypress/videos/*
+
+# End of https://www.toptal.com/developers/gitignore/api/cypressio
