@@ -16,7 +16,6 @@ BasicApi/cypress/reports/*
 BasicApi/cypress/screenshots/*
 BasicApi/cypress/videos/*
 
-BasicCommands-fixtures
 
 BasicCommands-fixtures/node_modules
 BasicCommands-fixtures/cypress/results/*
